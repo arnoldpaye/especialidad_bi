@@ -8,6 +8,10 @@ tarea
 En el desarrollo de software la asignacion de tareas es un actvididad
 cotividiana que consume tiempo y es pasible de cometer error.
 
+## Objetivo
+Crear un sistema de asignacion automatizada de errores de programacion utilizando
+tecnicas de mineria de datos basado en un datawarehouse.
+
 
 ## Referencia
 

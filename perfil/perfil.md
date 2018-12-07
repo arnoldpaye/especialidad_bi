@@ -1,17 +1,19 @@
-# Asignacion automatizada de tareas en base a mineria de datos
+# Asignacion automatizada de errores de programacion en base a mineria de datos
 
 ## Introduccion
-En el desarrollo de software se esta empezando a utilizar tecnicas de
-mineria de datos para mejora la productividad y calidad en diversas
-tarea
+Con el objetivo de mejorar la productividad y la calidad de software se esta incrementando
+el uso de tecnicas de mineria de datos en diveras areas del desarrollo de software [1].
 
-En el desarrollo de software la asignacion de tareas es un actvididad
-cotividiana que consume tiempo y es pasible de cometer error.
+Algunas de estas tareas son: programacion, mantenimiento, depuracion, deteccion de errores,
+etc. [1].
 
-## Objetivo
-Crear un sistema de asignacion automatizada de errores de programacion utilizando
-tecnicas de mineria de datos basado en un datawarehouse.
+La asignacion de errores es una parte importante del mantenimiento, la cual consume tiempo
+considerable y hacerlo de manera incorrecta podria tener un costo importante a largo plazo
+en el desarrollo de proyectos de software [2].
 
+El trabajo de especialidad propuesto pretende realizar la asignacion automatizada de errores
+de programacion utilizando tecnicas de mineria de datos y un almacen de datos construido
+a partir de proyectos de codigo abierto.
 
 ## Referencia
 

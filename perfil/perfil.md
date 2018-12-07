@@ -1,4 +1,4 @@
-# Asignacion automatizada de errores de programacion en base a mineria de datos
+# Asignacion automatizada de errores de programacion en proyectos de codigo abierto basado en mineria de datos
 
 ## Introduccion
 Con el objetivo de mejorar la productividad y la calidad de software se esta incrementando
